@@ -1,8 +1,8 @@
-[![GoDoc](https://godoc.org/github.com/golang-source-engine/stringtable?status.svg)](https://godoc.org/github.com/golang-source-engine/stringtable)
-[![Go report card](https://goreportcard.com/badge/github.com/golang-source-engine/stringtable)](hhttps://goreportcard.com/report/github.com/golang-source-engine/stringtable)
-[![GolangCI](https://golangci.com/badges/github.com/golang-source-engine/stringtable.svg)](https://golangci.com/r/github.com/golang-source-engine/stringtable)
-[![codecov](https://codecov.io/gh/golang-source-engine/stringtable/branch/master/graph/badge.svg)](https://codecov.io/gh/golang-source-engine/stringtable)
-[![CircleCI](https://circleci.com/gh/golang-source-engine/stringtable.svg?style=svg)](https://circleci.com/gh/golang-source-engine/stringtable)
+[![GoDoc](https://godoc.org/github.com/galaco/stringtable?status.svg)](https://godoc.org/github.com/galaco/stringtable)
+[![Go report card](https://goreportcard.com/badge/github.com/galaco/stringtable)](hhttps://goreportcard.com/report/github.com/galaco/stringtable)
+[![GolangCI](https://golangci.com/badges/github.com/galaco/stringtable.svg)](https://golangci.com/r/github.com/galaco/stringtable)
+[![codecov](https://codecov.io/gh/galaco/stringtable/branch/master/graph/badge.svg)](https://codecov.io/gh/galaco/stringtable)
+[![CircleCI](https://circleci.com/gh/galaco/stringtable.svg?style=svg)](https://circleci.com/gh/galaco/stringtable)
 
 # Stringtable
 
@@ -22,7 +22,7 @@ Here is a simple example:
 
 package main
 
-import "github.com/golang-source-engine/stringtable"
+import "github.com/galaco/stringtable"
 
 func main() {
     table := stringtable.New()
