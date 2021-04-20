@@ -1,3 +1,3 @@
-module github.com/golang-source-engine/stringtable
+module github.com/galaco/stringtable
 
 go 1.13
